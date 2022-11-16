@@ -1,0 +1,33 @@
+{
+  "name": "nylon-wears",
+  "version": "1.0.0",
+  "private": true,
+  "description": "nylon-wears",
+  "author": "hotrice37",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@fontsource/poppins": "^4.5.10",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.10.2",
+    "gatsby": "^5.0.0",
+    "gatsby-plugin-image": "^3.0.0",
+    "gatsby-plugin-sharp": "^5.0.0",
+    "gatsby-source-filesystem": "^5.0.0",
+    "gatsby-source-mongodb": "^5.0.0",
+    "gatsby-transformer-sharp": "^5.0.0",
+    "mongodb": "^4.11.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.6.0",
+    "react-dom": "^18.2.0"
+  }
+}
